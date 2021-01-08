@@ -1,0 +1,5 @@
+- Apples
+  - Green apples
+  - Red apples
+- Oranges
+- Strawberries
